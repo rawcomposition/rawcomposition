@@ -1,5 +1,1 @@
-### G'day, mates 👋
-
-I'm a birder 🦉. When I'm not birding or photographing birds, I'm probably programming. I enjoy combining my love for birds and programming by creating interesting web apps. I also work at SimpleUpdates.com as a full stack web developer. I'm an Aussie, but have now lived half my life in the US. Wow, time flies!
-
-Recently, I've been focusing on learning React and loving it! 
+I’m a birder 🦉 who loves traveling the world photographing rare birds. When I’m not birding, I’m busy building software that solves real-world problems—everything from an enterprise LMS for a global tire brand to a custom inventory tracking system. I’ve worked extensively on large-scale solutions to meet a variety of business needs, including company dealer portals, mobile apps, order lifecycle management solutions and non-profit crowdsourcing platforms.
